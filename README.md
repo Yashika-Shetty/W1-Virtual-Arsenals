@@ -1,10 +1,9 @@
-# Health-Website
 <html>
   <head><title>Index</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
-  background-color: black;
+  background-color: peachpuff;
   font-family: cursive;
 }
 
@@ -30,7 +29,12 @@ body {
 </head>
 <body>
 
-<h1 class="glow">INDEX</h1>
-     
+<h1 class="glow">Health Insurance Recommender</h1>
+<div class="scrollmenu">
+  <h3><a href="Home.html">Home&nbsp;&nbsp;&nbsp;</a>
+  <a href="Quiz.html">Quiz&nbsp;&nbsp;&nbsp;</a>
+  <a href="About.html">About</a></h3>
+  <marquee><a href="Score.html">Score</a></marquee>
+</div>
 </body>
-</html> 
+</html>
