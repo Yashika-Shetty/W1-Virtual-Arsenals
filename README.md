@@ -30,11 +30,16 @@ body {
 <body>
 
 <h1 class="glow">Health Insurance Recommender</h1>
+<br>
+<h2><center><i>Our motto is to try to change the perspective of consumers towards a health insurance policy. 
+</i></center></h2>
 <div class="scrollmenu">
   <h3><a href="Home.html">Home&nbsp;&nbsp;&nbsp;</a>
   <a href="Quiz.html">Quiz&nbsp;&nbsp;&nbsp;</a>
   <a href="About.html">About</a></h3>
   <marquee><a href="Score.html">Score</a></marquee>
+  <p>It’s often said that your health is your wealth. And with the same belief, we try our best to ensure that your health is never compromised.</p>
+  <iframe src="iframe -1.html" height="250" width="320" title="Iframe Example"></iframe>
 </div>
 </body>
 </html>
