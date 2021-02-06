@@ -30,7 +30,7 @@ body {
 </head>
 <body>
 
-<h1 class="glow">INDEX</h1>
+<h1 class="glow">This is INDEX Page</h1>
      
 </body>
 </html> 
